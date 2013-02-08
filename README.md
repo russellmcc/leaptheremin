@@ -1,0 +1,3 @@
+This is a simple theremin application for the LEAP motion device.
+
+Like a real theremin, pitch is controlled by the distance from the body to a vertical pole on the user's right side - the farther the distance, the lower the pitch.  Meanwhile, loudness is controlled by distance from the body to a horizontal pole on the user's left side.  The closer the body is to the volume pole, the lower the volume.
